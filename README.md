@@ -1,4 +1,7 @@
-# 情報工学科の紹介        ![](https://file%2B.vscode-resource.vscode-cdn.net/Users/kumagaiyoshinori/Desktop/Literacy/clb2-1-2284492022/clb2-2-2284492022/logo.png?version%3D1652689000769)
+# 情報工学科の紹介        
+
+![](logo.png)
+
 
 <!-- Markdown記法を使って学科の紹介ページを作る -->
 ## コンピュータの基礎から、高度なプログラミングまで。
